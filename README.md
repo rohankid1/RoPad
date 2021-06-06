@@ -8,6 +8,7 @@ RoPad is an open-source, small, lightweight and flexible notepad-based applicati
 * **Printing it (Complete)** - You are able to print the page out in a simpliest way possible
 * **Core features (Complete)**
 # Notices
-There are no releases/builds yet because it is still being developed and many core features of RoPad have yet to be completed.
+* There are no releases/builds yet because it is still being developed and many core features of RoPad have yet to be completed.
+* This project uses QT Creator 6.1.0 so must be in this version (or later)
 # Screenshots
 **Coming soon**
